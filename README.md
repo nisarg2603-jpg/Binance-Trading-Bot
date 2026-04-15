@@ -1,2 +1,12 @@
-# Binance-Trading-Bot
-A modular Python-based trading bot designed to interact with Binance Futures Testnet (USDT-M). This project demonstrates the ability to build a structured, production-style application capable of placing MARKET and LIMIT orders through a command-line interface (CLI).
+# Binance Futures Trading Bot (Testnet)
+
+## Features
+- Place MARKET and LIMIT orders
+- CLI-based input
+- Logging support
+- Error handling
+
+## Setup
+
+```bash
+pip install -r requirements.txt
